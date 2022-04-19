@@ -1,6 +1,6 @@
 # Battleships
 The first game I have ever made! The famous Battleships is a simple game developed in Python.
-The project was the Principles of Programming I module coursework, one of the MSC Data Science main modules I passed in 2020.
+The project was the Principles of Programming I module coursework, one of the MSC Data Science compulsory modules I passed in 2020.
 
 ## Implementaion
 I used sets to brute force the random position of the fleet with all the described restrictions; the program works fine; there is a separate test.py containing tests with pytest for almost all of the functions.
